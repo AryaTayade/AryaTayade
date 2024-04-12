@@ -1,8 +1,12 @@
-<p align="left">Hello!!<br><br>I'm Arya, a data analyst fluent in SQL, PowerBI, and Python.<br><br>My journey into the world of data analysis began during my freelance advertising ventures, where I was captivated by its potential to drive informed decision-making.<br><br>Passionate about transforming raw data into actionable insights, I thrive on uncovering the stories hidden within the numbers.</p>
+<h3 align="left">Hello!!</h3>
 
 ###
 
-<p align="left">Tech Stack</p>
+<p align="left">I'm Arya, a data analyst fluent in SQL, PowerBI, and Python.<br><br>My journey into the world of data analysis began during my freelance advertising ventures, where I was captivated by its potential to drive informed decision-making.<br><br>Passionate about transforming raw data into actionable insights, I thrive on uncovering the stories hidden within the numbers.</p>
+
+###
+
+<h3 align="left">Tech Stack</h3>
 
 ###
 
@@ -22,7 +26,7 @@
 
 ###
 
-<p align="left">You can reach out to me at</p>
+<h3 align="left">You can reach out to me at</h3>
 
 ###
 
