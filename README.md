@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Arya, a data analyst fluent in SQL, PowerBI, and Python.<br><br>My journey into the world of data analysis began during my freelance advertising ventures, where I was captivated by its potential to drive informed decision-making.<br><br>Passionate about transforming raw data into actionable insights, I thrive on uncovering the stories hidden within the numbers.</p>
+<p align="left">I'm Arya, a data analyst fluent in SQL, PowerBI, and Python. <br><be>I'm Passionate about transforming raw data into actionable insights, I thrive on uncovering the stories hidden within the numbers.</p>
 
 ###
 
