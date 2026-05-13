@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">I'm Arya, a data analyst fluent in SQL, PowerBI, and Python. <br><be>I'm Passionate about transforming raw data into actionable insights, I thrive on uncovering the stories hidden within the numbers.</p>
-
+<p align="left">
 ###
 
 <h3 align="left">Tech Stack</h3>
